@@ -11,6 +11,11 @@ def index():
     return render_template('home.html')
 
 
+@app.route('/construct')
+def construct():
+    return render_template('construct.html')
+
+
 @app.route('/about')
 def about():
     return render_template('about.html')
