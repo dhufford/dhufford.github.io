@@ -17,30 +17,30 @@
 <!--
   -- Navigation
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
-  -->
+-->
 
 [About](pages/about.md)
 [Download](pages/download.md)
 
-<!-- A more complex navigation example: ----------------------------------------
 
+<!-- A more complex navigation example: ----------------------------------------
+-->
 [Menu Item 1]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](pages/subitem1.md)
-  * [SubMenu Item 2](pages/subitem2.md)
+  * # General
+  * [Getting Started](pages/gettingstarted.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Delinea
+  * [Getting Started](pages/gettingstarteddelinea.md)
   - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](pages/subitem3.md)
+  * # Centrify
+  * [Platform 1](pages/platform1.md)
 
 [Menu Item 2](pages/item2.md)
 
 [Menu Item 3](pages/item3.md)
 
----------------------------------------------------------------------------- -->
+
 
 <!--
   -- Change the Language
