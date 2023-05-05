@@ -25,10 +25,10 @@
 
 <!-- A more complex navigation example: ----------------------------------------
 -->
-[Menu Item 1]()
+[General]()
 
-  * # General
-  * [Getting Started](pages/gettingstarted.md)
+  * # Active Directory Services and DNS
+  * [General 1](pages/gettingstarted.md)
   - - - -
   * # Delinea
   * [Getting Started](pages/gettingstarteddelinea.md)
