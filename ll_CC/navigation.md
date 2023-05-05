@@ -25,20 +25,21 @@
 
 <!-- A more complex navigation example: ----------------------------------------
 -->
-[General]()
+[Menu Item 1]()
 
-  * # Active Directory Services and DNS
-  * [General 1](pages/gettingstarted.md)
+  * # SubMenu Heading 1
+  * [SubMenu Item 1](subitem1.md)
+  * [SubMenu Item 2](subitem2.md)
   - - - -
-  * # Delinea
-  * [Getting Started](pages/gettingstarteddelinea.md)
+  * # SubMenu Heading 2
+  * [SubMenu Item 3](subitem3.md)
   - - - -
-  * # Centrify
-  * [Platform 1](pages/platform1.md)
+  * # SubMenu Heading 3
+  * [SubMenu Item 3](subitem3.md)
 
-[Menu Item 2](pages/item2.md)
-
-[Menu Item 3](pages/item3.md)
+[Menu Item 2](item2.md)
+- - - -
+[Menu Item 3](item3.md)
 
 
 
