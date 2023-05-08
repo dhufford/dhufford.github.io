@@ -25,10 +25,7 @@
 
 <!-- A more complex navigation example: ----------------------------------------
 -->
-[Menu Item 1](
-  # Something
-  [Something 1](subitem1.md)
-)
+[Menu Item 1]()
 
   * # SubMenu Heading 1
   * [SubMenu Item 1](subitem1.md)
