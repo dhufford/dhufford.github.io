@@ -11,7 +11,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!customizing.md#Theme_chooser)
   -->
 
-[gimmick:theme](yeti)
+
 
 
 <!--
@@ -61,6 +61,8 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-
 [gimmick:themechooser](Choose theme)
+
+[gimmick:theme](yeti)
+
 
