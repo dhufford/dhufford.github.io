@@ -25,17 +25,14 @@
 
 <!-- A more complex navigation example: ----------------------------------------
 -->
-[Menu Item 1]()
+[Docs]()
 
-  * # SubMenu Heading 1
-  * [SubMenu Item 1](subitem1.md)
-  * [SubMenu Item 2](subitem2.md)
+  * [Quickstart](quickstart.md)
+  * [Layout](layout.md)
+  * [FAQ](faq.md)
   - - - -
-  * # SubMenu Heading 2
-  * [SubMenu Item 3](subitem3.md)
-  - - - -
-  * # SubMenu Heading 3
-  * [SubMenu Item 3](subitem3.md)
+  * # Advanced
+  * [Customizing](customizing.md)
 
 [Menu Item 2](item2.md)
 - - - -
